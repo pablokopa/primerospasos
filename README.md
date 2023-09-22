@@ -5,17 +5,15 @@ Hoy vamos a aprender a hacer espaguetis a la carbonara para dos personas :heart_
 
 ### Ingredientes
 
-* 200gr de espaguetis
+* 200gr de espaguetis 
 * 50gr de tocineta ahumada
-* 50gr de mantequilla
-* 1 yema de huevo
-* agua
-* sal
-* 150gr de nata para cocinar
-* 1/2 cebolla
-* 50gr de queso parmesano
-* aceite de oliva
-* pimienta
+* 50gr de mantequilla 
+* agua 
+* sal 
+* 150gr de nata para cocinar 
+* 1/2 cebolla 
+* 50gr de queso parmesano 
+* pimienta 
 
 ### Elaboracion
 
