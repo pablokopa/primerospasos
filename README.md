@@ -25,7 +25,7 @@
 3. Agrega los espaguetis y el queso parmesano
 4. Mezcla bien y cocina durante 5m mas
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > No te olvides de compartirlo con otra persona!
 
 **A DISFRUTAR** :100:
