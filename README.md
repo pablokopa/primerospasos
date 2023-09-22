@@ -1,23 +1,23 @@
 # Receta Espaguetis
 ## Carbonara
 
-Hoy vamos a aprender a hacer espaguetis a la carbonara para dos personas :heart_eyes_cat:
+> Hoy vamos a aprender a hacer espaguetis a la carbonara para dos personas :heart_eyes_cat:
 
 ### Ingredientes
 
-* 200gr de espaguetis 
-* 50gr de tocineta ahumada
-* 50gr de mantequilla 
-* agua 
-* sal 
-* 150gr de nata para cocinar 
-* 1/2 cebolla 
-* 50gr de queso parmesano 
-* pimienta 
+- [x] 200gr de espaguetis 
+- [x] 50gr de tocineta ahumada
+- [x] 50gr de mantequilla 
+- [x] Agua 
+- [x] Sal 
+- [x] 150gr de nata para cocinar 
+- [x] 1/2 cebolla 
+- [x] 50gr de queso parmesano 
+- [x] Pimienta 
 
 ### Elaboracion
 
-1. Cocer la pasta en una cazuela con abundante agua a punto de ebullicion y una pizca de sal, durante 10-12 minutos. Una vez acabado, escurre y reserva.
+1. Cocer la pasta en una cazuela con abundante agua a `punto de ebullicion` y una pizca de sal, durante 10-12 minutos. Una vez acabado, escurre y reserva.
 2. Para hacer la carbonara
     - Pica la cebolla
     - Corta en taquitos la tocineta y ponlas a dorar en una sarten con mantequilla
@@ -25,6 +25,10 @@ Hoy vamos a aprender a hacer espaguetis a la carbonara para dos personas :heart_
 3. Agrega los espaguetis y el queso parmesano
 4. Mezcla bien y cocina durante 5m mas
 
-**A disfrutar** :100:
+**A DISFRUTAR** :100:
+
+> [!IMPORTANT]
+> No te olvides de compartirlo con otra persona!
 
 ![Espaguetis Carbonara](/img/450_1000.jpg)
+Esta receta fue escrita siguiendo esta [pagina](https://www.hogarmania.com/cocina/recetas/pastas-pizzas/espaguetis-carbonara-16255.html)
