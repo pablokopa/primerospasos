@@ -28,3 +28,5 @@ Hoy vamos a aprender a hacer espaguetis a la carbonara para dos personas :heart_
 4. Mezcla bien y cocina durante 5m mas
 
 **A disfrutar** :100:
+
+![Espaguetis Carbonara](/img/450_1000.jpg)
